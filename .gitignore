@@ -1,0 +1,6 @@
+/.cache
+
+/src/*.pcm
+/src/*.d
+/src/*.o
+/src/k-uniform-enumerator
