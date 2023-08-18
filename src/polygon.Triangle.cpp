@@ -1,4 +1,4 @@
-module polygon;
+export module polygon;
 
 import types;
 

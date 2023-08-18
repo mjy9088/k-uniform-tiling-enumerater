@@ -7,7 +7,6 @@
   "C_Cpp.intelliSenseEngine": "disabled",
   "C_Cpp.autoAddFileAssociations": false,
   "[cpp]": {
-    "editor.formatOnSave": true,
     "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd",
   },
 }

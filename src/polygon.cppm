@@ -12,5 +12,5 @@ public:
 
 export class Triangle : IPolygon {
 public:
-	virtual byte_t degree() const override;
+	byte_t degree() const override;
 };
